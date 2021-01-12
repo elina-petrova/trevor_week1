@@ -1,0 +1,35 @@
+{
+  "name": "trevor_week1",
+  "version": "1.0.0",
+  "description": "learrning node and npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Hello from node\"",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elina-petrova/trevor_week1.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "git",
+    "github",
+    "awesomeness"
+  ],
+  "author": "Elina Petrova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elina-petrova/trevor_week1/issues"
+  },
+  "homepage": "https://github.com/elina-petrova/trevor_week1#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
