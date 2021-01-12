@@ -4,7 +4,7 @@ const http = require('http');
 // or the same as require in php 
 
 const hostname = '127.0.0.1'; // this is localhost
-const port = 3000; // localhost:3000
+const port = process.env.PORT || 3000; // localhost:3000
 
 // method
 // 
