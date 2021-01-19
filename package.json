@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Hello from node\"",
+    "start-dev": "nodemon app",
     "start": "node app"
   },
   "repository": {
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/elina-petrova/trevor_week1#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "gulp": "^4.0.2",
     "mysql": "^2.18.1",
     "underscore": "^1.12.0"
