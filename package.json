@@ -2,7 +2,7 @@
   "name": "trevor_week1",
   "version": "1.0.0",
   "description": "learrning node and npm",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Hello from node\"",
     "start": "node app"
